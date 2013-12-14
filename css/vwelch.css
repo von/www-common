@@ -64,32 +64,34 @@ div.subheader {
  * Menubar
  */
 div.menubar {
-    padding-bottom: 8px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
 }
 
 ul.menubar {
-    background-color: #4C88BE;
-    float:right;
+    display:inline-table;
     width:100%;
     padding:0;
-    margin:0;
+    margin-top: 20px;
+    margin-bottom: 20px;
     list-style-type:none;
 }
-ul.menubar a {
-    float:right;
-    width:6em;
+ul.menubar li a {
+    display: inline-block;
+    width:9em;
     text-decoration:none;
-    color:white;
+    color: #ffffff;
     background-color: #4C88BE;
     padding:0.2em 0.6em;
-    border-top:1px solid white;
-    border-left:1px solid white;
+    border-right:1px solid white;
 }
-ul.menubar a:hover {
+ul.menubar li a:hover {
     background-color:#B0E0E6;
-    color: black;
+    color: #000000;
 }
-ul.meubar li {
+ul.menubar li {
     display:inline;
 }
 
