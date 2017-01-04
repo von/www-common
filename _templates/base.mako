@@ -14,15 +14,15 @@
   <%block name="css">
   <!-- Start Blueprint headers -->
   <link rel="stylesheet" href="/css/blueprint/screen.css"
-	type="text/css" media="screen, projection" />
+        type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="/css/blueprint/print.css"
-	type="text/css" media="print"/>
+        type="text/css" media="print"/>
   <!--[if lt IE 8]><link rel="stylesheet" --
   --href="/css/blueprint/ie.css" type="text/css" media="screen, --
   --projection" /><![endif]-->
   <!-- End Blueprint headers -->
   <link rel="stylesheet" href="/css/vwelch.css"
-	type="text/css" />
+        type="text/css" />
   </%block>
 
   <%block name="endhead"/>
@@ -31,7 +31,7 @@
   <div class="container">
     <div class="span-20 last">
       <div class="header">
-	<h1>Von Welch</h1>
+        <h1>Von Welch</h1>
       </div>
     </div>
     <div class="span-20 last">
@@ -60,8 +60,8 @@
   <div class="span-20 last">
     <div class="footer">
       <p class="copyright">
-	&copy; 2014 Website by Von Welch
-	using <a href="https://github.com/von/pyder">pyder</a>.
+        &copy; 2014 Website by Von Welch
+        using <a href="https://github.com/von/pyder">pyder</a>.
       </p>
       <p>Credits:
       <a href="http://www.blueprintcss.org/">Blueprint</a>,
