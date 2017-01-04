@@ -60,7 +60,7 @@
   <div class="span-20 last">
     <div class="footer">
       <p class="copyright">
-        &copy; 2014 Website by Von Welch
+        &copy; 2017 Website by Von Welch
         using <a href="https://github.com/von/pyder">pyder</a>.
       </p>
       <p>Credits:
